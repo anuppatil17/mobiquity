@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mobiquity.iml" filepath="$PROJECT_DIR$/.idea/mobiquity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mobiquityAssignment/mobiquityAssignment.iml" filepath="$PROJECT_DIR$/mobiquityAssignment/mobiquityAssignment.iml" />
     </modules>
   </component>
 </project>
