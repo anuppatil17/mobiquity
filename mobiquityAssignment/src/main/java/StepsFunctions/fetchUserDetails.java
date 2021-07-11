@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
 
 public class fetchUserDetails {
 
-    private static final String BASE_URL = "http://localhost:3000";
+    private static final String BASE_URL = "https://jsonplaceholder.typicode.com";
 
     private static List username;
     private static List mailId;
